@@ -13,8 +13,9 @@
 *MENTOR* : NEELA SANTOSH
 
 ## Output 
-- Top 10 Pickup Locations
- ![Image](https://github.com/user-attachments/assets/e0787163-7b46-4801-83ff-7f4eb13883ff)
+- Top 10 Pickup Locati
+
+  
 
 - Average Trip Distance By Hour
   
