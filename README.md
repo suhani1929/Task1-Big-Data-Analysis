@@ -17,9 +17,10 @@
 ## 📊 Project Overview
 
 - This project demonstrates scalable big data processing using **Dask** in Python. We analyze real-world NYC Yellow Taxi trip data (January 2019) in Parquet format and generate insights and visualizations, such as:
-            - Average trip distance by hour of the day
-            - Top 10 pickup locations by ride count
--Key fields include:
+
+     - Average trip distance by hour of the day
+     - Top 10 pickup locations by ride count
+- Key fields include:
       - Pickup and drop-off datetime
       - Trip distance
       - Pickup location ID (PULocationID)
