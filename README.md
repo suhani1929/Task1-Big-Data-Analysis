@@ -15,7 +15,7 @@
 ## Output 
 - Top 10 Pickup Locati
 
-  
+  ![Image](https://github.com/user-attachments/assets/f2980192-e91e-4b7e-b9da-8adb50f4e9da)
 
 - Average Trip Distance By Hour
   
