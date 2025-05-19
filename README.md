@@ -1,5 +1,5 @@
 # Task1-Big-Data-Analysis
----
+
 *COMPANY* : CODTECH IT SOLUTIONS
 
 *NAME* : SUHANI PANCHOLI
@@ -11,9 +11,9 @@
 *DURATION* : 4 WEEKS
 
 *MENTOR* : NEELA SANTOSH
----
+
 ## 🚖 Big Data Analysis with Dask – NYC Taxi Dataset (2019)
----
+
 ## 📊 Project Overview
 
 - This project demonstrates scalable big data processing using **Dask** in Python. We analyze real-world NYC Yellow Taxi trip data (January 2019) in Parquet format and generate insights and visualizations, such as:
