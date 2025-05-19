@@ -12,7 +12,8 @@
 
 *MENTOR* : NEELA SANTOSH
 
-## 🚖 Big Data Analysis with Dask – NYC Taxi Dataset (2019)
+---
+# 🚖 Big Data Analysis with Dask – NYC Taxi Dataset (2019)
 
 ## 📊 Project Overview
 
