@@ -34,7 +34,9 @@
 - **Download Link**: [Direct URL](https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2019-01.parquet)
 
 The dataset includes detailed records of taxi rides: pickup/dropoff time and location, trip distance, fare, passenger count, and more.
+
 ---
+
 ## 🎯 Objectives
 
 - Perform distributed analysis using Dask to handle a large dataset.
